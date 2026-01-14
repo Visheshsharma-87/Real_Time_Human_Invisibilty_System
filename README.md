@@ -76,7 +76,7 @@ Step 3: Usage instructions
 
 ## Performance
 - Real-time execution on CPU-based systems
-- Average frame rate of 15 to 25 FPS on an Intel i3 processor
+- Average frame rate of 15 to 75 FPS on an Intel i3 processor
 - Stable execution without system freezing
 - Works with any clothing color
 
